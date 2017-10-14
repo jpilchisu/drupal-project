@@ -17,6 +17,10 @@
         {
             "type": "git",
             "url": "git@github.com:isubit/iastate_theme.git"
+        },
+        {
+            "type: "git",
+            "url": "git@github.com:isubit/d8_people.git"
         }
     ],
     "require": {
@@ -31,7 +35,8 @@
         "isubit/iastate_theme": "master",
         "drupal/video_embed_field": "^1.5",
         "drupal/editor_file": "^1.2",
-        "drupal/field_group": "^1.0"
+        "drupal/field_group": "^1.0",
+        "isubit/d8_people": "master"
     },
     "require-dev": {
         "behat/mink": "~1.7",
