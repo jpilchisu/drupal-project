@@ -19,7 +19,7 @@
             "url": "git@github.com:isubit/iastate_theme.git"
         },
         {
-            "type: "git",
+            "type": "git",
             "url": "git@github.com:isubit/d8_people.git"
         }
     ],
